@@ -10,3 +10,5 @@
 4. [VS Code IDE](https://code.visualstudio.com)
 
 Create a new environment.
+
+link: https://aqi-predictionapp.herokuapp.com/
